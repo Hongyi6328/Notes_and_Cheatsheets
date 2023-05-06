@@ -7,6 +7,9 @@ These notes are subject to change and may not reflect the to-date materials in t
 
 | Module | Prof | Time |
 | --- | --- | --- |
+| CS2106 (Missing File System) | Weng-Fai Wong | 22/23 S1 |
+| CS2109S | Ben Leong | 22/23 S1 |
+| MA2108 | An Xinliang | 22/23 S1 |
 | CS2102 | Adi Yoga & Xiao Xiaokui | 22/23 S2 |
 | CS2105 | Ma Tianbai & Jithin Vachery | 22/23 S2 |
 | CS4231 | Yu Haifeng | 22/23 S2 |
